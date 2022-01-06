@@ -1,0 +1,73 @@
+.motohd{
+    background-image: url("../images/covidimg3.jpeg");   
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:10cm;
+    width:100%;
+    text-align: left;
+    padding-top: 70px;
+    padding-bottom: 10px;
+ }  
+ .moto1{
+     color:red;
+     font-size: 1.5cm;
+ }
+ .motohead{
+     color: cyan;
+     text-align: left;
+     margin-left: 40px;
+ }
+  
+  
+    
+ .para{
+     width: 80%;
+     height:8cm;
+     color: aqua;
+     background-color: crimson;
+     font-size: large;
+     padding: 20px 40px 20px 40px;
+     border: 5px solid gray;
+     margin: 10px auto 50px auto;
+     box-shadow: 5px 5px 8px cyan, 10px 10px 8px lightskyblue, 15px 15px 8px aqua;
+     border-radius: 10px;
+ }
+ .covaccine{
+     background-image: url("../images/covaxin.jpg");
+     width: 1200px;
+     height: 500px;
+     margin-left: auto;
+     margin-right: auto;
+     padding-bottom: 200px;
+     border-radius: 20px 20px 20px 20px;
+     background-repeat: no-repeat;
+ }
+ .navbar1{
+     width:100%;
+     height:1cm;
+    background-color: darkblue;
+    box-shadow: 10px 8px 8px lightskyblue;
+    border-radius: 5px 5px 20px 20px;
+ }
+ 
+
+ .button1{ 
+     display: inline;
+     color: orangered;
+     background-color: transparent;
+     padding: 9px 15px 9px 15px;
+     font-weight: bold;
+     margin-right: 50px;
+     float: right;
+     border-color: transparent;
+    }
+
+    .button1:hover{
+        background-color: transparent;
+        border-color: tomato;
+        box-shadow: 1px 5px 5px tomato;
+        border-bottom-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+
+   
